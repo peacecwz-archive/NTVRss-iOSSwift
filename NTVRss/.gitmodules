@@ -1,0 +1,6 @@
+[submodule "SWXMLHash"]
+	path = SWXMLHash
+	url = https://github.com/drmohundro/SWXMLHash
+[submodule "Alamofire"]
+	path = Alamofire
+	url = https://github.com/Alamofire/Alamofire
